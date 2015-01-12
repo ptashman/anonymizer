@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "anonymizer"
   spec.version       = Anonymizer::VERSION
   spec.authors       = ["Paul Tashman"]
-  spec.email         = ["paul.tashman@careerbuilder.com"]
+  spec.email         = ["paultashman@gmail.com"]
   spec.summary       = %q{Full name destruction}
   spec.description   = %q{Replaces all full names with nonsense.}
   spec.homepage      = ""
