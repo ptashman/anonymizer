@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'anonymizer/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "anonymizer"
+  spec.name          = "anonymizerr"
   spec.version       = Anonymizer::VERSION
   spec.authors       = ["Paul Tashman"]
   spec.email         = ["paultashman@gmail.com"]
