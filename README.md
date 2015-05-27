@@ -1,6 +1,6 @@
 # Anonymizer
 
-TODO: Write a gem description
+A gem for blocking full names from text.
 
 ## Installation
 
